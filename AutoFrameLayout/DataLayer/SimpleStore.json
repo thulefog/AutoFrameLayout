@@ -1,0 +1,68 @@
+{
+    "SimpleStore": [
+                    {
+                    "Instance": "6.1.01",
+                    "Description":"USC SIPI Sequence, Frame 01"
+                    },
+                    {
+                    "Instance": "6.1.02",
+                    "Description":"USC SIPI Sequence, Frame 02"
+                    },
+                    {
+                    "Instance": "6.1.03",
+                    "Description":"USC SIPI Sequence, Frame 03"
+                    },
+                    {
+                    "Instance": "6.1.04",
+                    "Description":"USC SIPI Sequence, Frame 04"
+                    },
+                    {
+                    "Instance": "6.1.05",
+                    "Description":"USC SIPI Sequence, Frame 05"
+                    },
+                    {
+                    "Instance": "6.1.06",
+                    "Description":"USC SIPI Sequence, Frame 06"
+                    },
+                    {
+                    "Instance": "6.1.07",
+                    "Description":"USC SIPI Sequence, Frame 07"
+                    },
+                    {
+                    "Instance": "6.1.08",
+                    "Description":"USC SIPI Sequence, Frame 08"
+                    },
+                    {
+                    "Instance": "6.1.09",
+                    "Description":"USC SIPI Sequence, Frame 09"
+                    },
+                    {
+                    "Instance": "6.1.10",
+                    "Description":"USC SIPI Sequence, Frame 10"
+                    },
+                    {
+                    "Instance": "6.1.11",
+                    "Description":"USC SIPI Sequence, Frame 11"
+                    },
+                    {
+                    "Instance": "6.1.12",
+                    "Description":"USC SIPI Sequence, Frame 12"
+                    },
+                    {
+                    "Instance": "6.1.13",
+                    "Description":"USC SIPI Sequence, Frame 13"
+                    },
+                    {
+                    "Instance": "6.1.14",
+                    "Description":"USC SIPI Sequence, Frame 14"
+                    },
+                    {
+                    "Instance": "6.1.15",
+                    "Description":"USC SIPI Sequence, Frame 15"
+                    },
+                    {
+                    "Instance": "6.1.016",
+                    "Description":"USC SIPI Sequence, Frame 16"
+                    }
+                    ]
+}
