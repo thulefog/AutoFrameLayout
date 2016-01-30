@@ -61,4 +61,4 @@ The test images are from the Sequences volume in the test data set fom the USC V
 [Signal and Image Processing Institute ](http://sipi.usc.edu/database/database.php)
 
 ## License
-[MIT](http://firebase.mit-license.org)
+![MIT](LICENSE.md)
