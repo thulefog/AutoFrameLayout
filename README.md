@@ -59,3 +59,6 @@ A drawer view to provide additional meta data beyond the displayable image has a
 The test images are from the Sequences volume in the test data set fom the USC Viterbi - School of Engineering.
 
 [Signal and Image Processing Institute ](http://sipi.usc.edu/database/database.php)
+
+## License
+[MIT](http://firebase.mit-license.org)
